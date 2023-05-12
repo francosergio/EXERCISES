@@ -1,0 +1,15 @@
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\bin\Debug\net6.0\EJERCICIOS.exe
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\bin\Debug\net6.0\EJERCICIOS.deps.json
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\bin\Debug\net6.0\EJERCICIOS.runtimeconfig.json
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\bin\Debug\net6.0\EJERCICIOS.dll
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\bin\Debug\net6.0\EJERCICIOS.pdb
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\obj\Debug\net6.0\EJERCICIOS.csproj.AssemblyReference.cache
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\obj\Debug\net6.0\EJERCICIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\obj\Debug\net6.0\EJERCICIOS.AssemblyInfoInputs.cache
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\obj\Debug\net6.0\EJERCICIOS.AssemblyInfo.cs
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\obj\Debug\net6.0\EJERCICIOS.csproj.CoreCompileInputs.cache
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\obj\Debug\net6.0\EJERCICIOS.dll
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\obj\Debug\net6.0\refint\EJERCICIOS.dll
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\obj\Debug\net6.0\EJERCICIOS.pdb
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\obj\Debug\net6.0\EJERCICIOS.genruntimeconfig.cache
+C:\Users\Tecnicos\Desktop\DESARROLLO\EJERCICIOS\obj\Debug\net6.0\ref\EJERCICIOS.dll
